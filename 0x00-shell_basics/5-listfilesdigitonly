@@ -1,2 +1,2 @@
 #!/bin/bash
-return ls -a -all
+ls -lna
