@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(mkdir /tmp/holberton)
+mkdir /tmp/holberton
